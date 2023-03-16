@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "InterviewApp",
+    "slug": "InterviewApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "InterviewApp"
+}
