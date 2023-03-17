@@ -1,0 +1,5 @@
+dark blue HEX : 012E57, rgb (1,46,87)  
+ 
+orange HEX: f0951f, rgb (240,151,31) 
+ 
+Font: frutiger 
